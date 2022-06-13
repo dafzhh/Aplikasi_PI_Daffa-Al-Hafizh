@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy
+scikit-learn==0.24.2 
+seaborn
+flask
+jsonify
+requests
+uvicorn
+gunicorn
